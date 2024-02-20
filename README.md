@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Galaxyraul
 - 👀 I’m interested in coding,robotics and anime.
-- 🌱 I’m currently learning c++ and java,
+- 🌱 I’m currently learning python,
 - 📫 How to reach me rgt00024@red.ujaen.es
 
 <!---
